@@ -1,2 +1,1 @@
-# swagger
-Swagger for Github Pages
+# API Documents for The Tunes
